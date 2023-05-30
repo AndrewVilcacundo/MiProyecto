@@ -1,0 +1,11 @@
+Conceptos
+Clases: Se lo podría definir como un grupo de características comunes y a cada clase se lo puede poner como privado o público.
+Objeto: Se lo podría definir como algo de la vida real.
+Método: Se lo podría definir como las acciones de cada objeto.
+Atributo: Se lo podría definir como las características del objeto.
+Setters: Es el que asigna un atributo a un objeto.
+Getters: Es el que muestra un atributo a un objeto.
+Puntero: Es el que almacena la dirección de memoria de un objeto.
+Constructor: es un método especial que se utiliza para inicializar un objeto recién creado y después se les asigna valores a sus variables.
+Github: Es una aplicación creada para desarrolladores web.
+
